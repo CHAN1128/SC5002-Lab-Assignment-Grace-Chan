@@ -1,15 +1,15 @@
 # SC5002 Artificial Intelligence Fundamentals & Applications
-## Lab Assignment - Part 2: Applied Machine Learning
+## Lab Assignment - Part 2: Applied Machine Learning with AI Copilot
 
-This repository contains the practical code implementation and results for Part 2 of the SC5002 lab assignment using Google Colab.
+This repository contains the code implementation and results for Part 2 of the SC5002 lab assignment that uses Google Colab & Scikit-Learn. 
 
 ---
 
 ## Repository Contents
 * `SC5002_Lab_Assignment.ipynb`: The completed Google Colab notebook containing:
-  * **Task 2.1:** California Housing dataset setup, sampling, and feature scaling (`StandardScaler`).
-  * **Task 2.2:** Model training & 5-fold cross-validation for Linear Regression and Ridge Regression ($\alpha = 0.1, 10.0, 1000.0$).
-  * **Task 2.3:** Performance comparison bar chart visualization.
+  * **Task 2.1:** California Housing dataset.
+  * **Task 2.2:** 5-fold cross-validation scores across different regularization penalties (α = 0.1, 10.0, 1000.0).
+  * **Task 2.3:** Performance comparison bar chart.
 
 ---
 
