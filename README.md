@@ -18,6 +18,3 @@ This repository contains the practical code implementation and results for Part 
 2. Alternatively, click **"Open in Colab"** or download the notebook to run it interactively in Google Colab.
 
 ---
-
-## Grace
-* **Course:** SC5002 Artificial Intelligence Fundamentals & Applications
